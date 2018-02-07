@@ -2,3 +2,19 @@ html {
   text-align: center;
   font-family: helvetica;
 }
+
+h1 {
+  color: white;
+  font-size 70px;
+  font-weight: bold;
+  background-image: url("the-flatiron-building.png");
+}
+/*Links*/
+a {
+  font-size: 18px;
+  color: white;
+}
+#footer {
+  text-align:left;
+  background-color: dimgray;
+}
