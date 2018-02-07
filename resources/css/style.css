@@ -5,16 +5,37 @@ html {
 
 h1 {
   color: white;
-  font-size 70px;
+  font-size: 70px;
   font-weight: bold;
-  background-image: url("the-flatiron-building.png");
+  }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold
+}
+
+p{
+  font-size: 14px;
 }
 /*Links*/
 a {
   font-size: 18px;
   color: white;
 }
+#navigation {
+  background-image: url("the-flatiron-building.png");
+}
+#designBanner {
+  background-image: url("the-flatiron-building.png");
+  color: white;
+}
 #footer {
   text-align:left;
+  color: white;
   background-color: dimgray;
 }
